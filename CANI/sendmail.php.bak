@@ -16,7 +16,7 @@ try{
     $mail->Host       = 'smtp.gmail.com;';                    
     $mail->SMTPAuth   = true;                             
     $mail->Username   = 'pratyush.d@somaiya.edu';                 
-    $mail->Password   = '';                        
+    $mail->Password   = 'amitdesai';                        
     $mail->SMTPSecure = 'tls';                              
     $mail->Port       = 587;  
   
